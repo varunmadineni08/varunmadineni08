@@ -1,7 +1,6 @@
 -  Hi, I’m @varunmadineni08
--  I’m interested in Software testing, Web testing and Api testing
--  I’m currently learning Automation testing in Web, API and Mobile
--  I’m looking for opportunities in Automation and Manual Testing roles also any Junior QA roles
+-  I’m interested in Cloud Engineer, DevOps Engineer roles
+-  I’m currently learning AWS and Devops
 -  Reach me through github or LinkedIn -https://www.linkedin.com/in/varun-madineni-b075902a7
 
 
