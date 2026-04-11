@@ -3,7 +3,7 @@
 Cloud / DevOps Engineer passionate about building and automating cloud infrastructure and deployment pipelines.
 
 ## About Me
-- Interested in **Cloud Engineer, DevOps Engineer roles and Internships**
+- Interested in **Cloud Engineer, DevOps Engineer roles**
 - Currently learning and building projects using **AWS, Azure, and GCP**
 - Hands-on experience with **CI/CD pipelines, containerization, and cloud infrastructure**
 - Focused on **automation, infrastructure as code, and scalable deployments**
